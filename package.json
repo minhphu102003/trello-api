@@ -1,0 +1,12 @@
+{
+  "name": "trello-api",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "tobi learn express for develop REST api",
+  "main": "src/server.js",
+  "author": "tobi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
